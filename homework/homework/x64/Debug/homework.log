@@ -1,0 +1,4 @@
+﻿  homework.cpp
+C:\Users\student1\source\repos\homework\homework\homework.cpp(12,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\student1\source\repos\homework\homework\homework.cpp(18,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  homework.vcxproj -> C:\Users\student1\source\repos\homework\x64\Debug\homework.exe
